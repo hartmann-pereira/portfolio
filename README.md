@@ -1,5 +1,5 @@
 # Ricardo Portfolio
-Example Data Science Portfolio
+Building my Data Science Portfolio
 
 
 # [Project 1: Data driven loan payment prediction](https://github.com/hartmann-pereira/D/blob/main/Data_Drive_Loan_Payment_Prediction.ipynb)
