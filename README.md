@@ -17,3 +17,15 @@ Building my Data Science Portfolio
 * The main questions I was looking for to answer with this dashboard build were: 
 * Revenue per state | Revenue based on month of the year | Revenue based on customer age | Revenue per category per gender and finaly Revenue per payment method.
 * I decided to apply filters to choose between multiple cathegories for easy comparison and also display the total revenue value
+
+# [Project 3: SQL Analysis of a Walmart retail dataset](https://github.com/hartmann-pereira/SQL-campaign/blob/main/SQLite.sql)
+![](images/dataset-cover.jpg)
+* This SQL file contains queries about a walmart retail dataset between 2012 and 2015
+* Built by transforming a xlsx file into a csv file and uploading into sqloteonline.com and querying the data
+* Skills used: select, select distinct, where, and/or, order by, min/max/average/sum/count, aliases, group by, subquery
+* Dataset consisted of 25 columns and around 8400 rows having text, numbers values and also null values
+* In the initial queries my objective was to get to know the dataset that was being used
+* Looking into the data and answering kpi questions such as average total renevue
+* Moved into queries that provide deeper understanding such as % of profits per client segment
+* Showing a comparison of average company profit between consumer and corporate customers
+* More advanced techniques were used such as sub-query and calculations 
