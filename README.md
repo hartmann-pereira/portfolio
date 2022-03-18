@@ -2,7 +2,7 @@
 Building my Data Science Portfolio
 
 
-# [Project 1: Data driven loan payment prediction](https://github.com/hartmann-pereira/D/blob/main/C%C3%B3pia_de_Data_Drive_Loan_Payment_Prediction.ipynb)
+# [Project 1: Data driven loan payment prediction](https://colab.research.google.com/drive/1UDw4jaXnPQ_eN0EyBdVQyTyonTmapbk3?usp=sharing)
 ![](images/Capturar2.PNG)
 * Project exploring publicly available data from LendingClub.com from 2007 to 2010 as a csv file.
 * This project starts with data exploration and visualization to better understand the imported data.
