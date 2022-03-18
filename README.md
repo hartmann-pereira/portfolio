@@ -2,12 +2,12 @@
 Building my Data Science Portfolio
 
 
-# [Project 1: Data driven loan payment prediction](https://github.com/hartmann-pereira/D/blob/main/Data_Drive_Loan_Payment_Prediction.ipynb)
+# [Project 1: Data driven loan payment prediction](https://github.com/hartmann-pereira/D/blob/main/C%C3%B3pia_de_Data_Drive_Loan_Payment_Prediction.ipynb)
 ![](images/Capturar2.PNG)
-* Simple project exploring publicly available data from LendingClub.com from 2007 to 2010 as a csv file.
-* This project starts with data visualization to better understand the imported data.
-* Data is cleaned to be prepared to be applied some simple scikit learn models.
-* I am looking to understand what has more impact in wether someone will pay back the loan.
+* Project exploring publicly available data from LendingClub.com from 2007 to 2010 as a csv file.
+* This project starts with data exploration and visualization to better understand the imported data.
+* The statistical data analysis envolved Descriptive analysis (univariate analysis), Correlation analysis (bivariate analysis) going through Qualitative analysis and Quantitative analysis
+* Data is cleaned to be prepared to be applied some scikit learn models.
 * Created two models using decision trees and random forest to help predict.
 * Presented the classification report and confusion matrix.
 
