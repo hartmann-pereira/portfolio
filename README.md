@@ -25,7 +25,7 @@ Building my Data Science Portfolio
 * Skills used: select, select distinct, where, and/or, order by, min/max/average/sum/count, aliases, group by, subquery
 * Dataset consisted of 25 columns and around 8400 rows having text, numbers values and also null values
 * In the initial queries my objective was to get to know the dataset that was being used
-* Looking into the data and answering kpi questions such as average total renevue
+* Looking into the data and answering kpi questions such as average total revenue
 * Moved into queries that provide deeper understanding such as % of profits per client segment
 * Showing a comparison of average company profit between consumer and corporate customers
 * More advanced techniques were used such as sub-query and calculations 
